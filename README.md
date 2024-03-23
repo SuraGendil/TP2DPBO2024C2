@@ -1,7 +1,7 @@
 # TP2DPBO2024C2
 
 # JANJI
-Saya Raden Rahman Ismail (2200311) mengerjakan soal LP5DPBO2024C2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesikasikan.Aamiin
+Saya Raden Rahman Ismail (2200311) mengerjakan soal TP2DPBO2024C2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesikasikan.Aamiin
 
 # Program
 Program yang dibuar merupakan sebuah program sederhana yang digunakan untuk mencatat data mahasiswa. 
