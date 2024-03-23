@@ -52,3 +52,20 @@ Program ini juga sudah menggunakan database
 4. **Menampilkan Daftar Mahasiswa:**
    - Daftar mahasiswa ditampilkan dalam bentuk tabel dengan kolom NIM, Nama, Jenis Kelamin, Nilai, dan Angkatan.
    - Pengguna dapat melihat seluruh data mahasiswa yang telah ditambahkan dan diperbarui.
+
+## Output pada database
+Insert 
+![image](https://github.com/SuraGendil/TP2DPBO2024C2/assets/117885047/1e315080-1b25-4dc7-8d79-1a9f2be64bbf)
+
+Update
+![image](https://github.com/SuraGendil/TP2DPBO2024C2/assets/117885047/477a261c-e1ce-4657-9e75-df2617377808)
+
+Delete
+![image](https://github.com/SuraGendil/TP2DPBO2024C2/assets/117885047/736265bb-d1b9-4d29-a1b1-788a5d6cf37f)
+
+
+
+
+
+
+
